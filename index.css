@@ -3,8 +3,13 @@
     height: 100px;
 }
 .pic1{
-
+    background-image: url(/img/b2a75b896ea210a836a93c58e87127ba1510229621_main.jpeg);
+    background-position: center;
+    background-size:cover;
 }
 .pic2{
-    
+background-image: url(/img/WallpaperDog-20378923.jpg);
+
+background-size: contain;
+background-repeat:no-repeat ;
 }
